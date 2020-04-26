@@ -1,0 +1,15 @@
+//
+// https://medium.com/@loginov_rocks/how-to-make-a-web-app-for-your-own-bluetooth-low-energy-device-arduino-2af8d16fdbe8
+// Danila Loginov
+
+#terminal div {
+    color: gray;
+}
+
+#terminal div.out {
+    color: red;
+}
+
+#terminal div.in {
+    color: blue;
+}
